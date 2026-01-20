@@ -42,10 +42,10 @@ QSAR modeling for 5-HT1A receptors enables:
 - **Visualization**: Distribution analysis and property correlations
 - **Machine Learning**: QSAR model development for bioactivity prediction
 
-## Requirements
+## Dependencies
 
 ```bash
-pip install pandas numpy seaborn matplotlib scikit-learn lazypredict rdkit chembl_webresource_client
+python -m pip install -U pandas numpy seaborn matplotlib scikit-learn lazypredict rdkit chembl_webresource_client
 ```
 
 ## Data
